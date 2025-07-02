@@ -61,5 +61,4 @@ This project helped me improve in:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Archana-Lohana/amazon-inspired-ui.git
-
+git clone git clone https://github.com/Archana-Lohana/project-1st.git
