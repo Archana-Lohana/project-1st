@@ -60,5 +60,8 @@ This project helped me improve in:
 ## 🚀 How to Run Locally
 
 1. Clone this repository:
-```bash
-git clone git clone https://github.com/Archana-Lohana/project-1st.git
+bash
+
+Clone the repository git clone https://github.com/Archana-Lohana/PROJECT.git
+
+Open the index.html file in your browser
