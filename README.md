@@ -62,6 +62,6 @@ This project helped me improve in:
 1. Clone this repository:
 bash
 
-Clone the repository git clone https://github.com/Archana-Lohana/PROJECT.git
+Clone the repository git clone https://github.com/Archana-Lohana/PROJECT-1st.git
 
 Open the index.html file in your browser
