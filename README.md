@@ -1,24 +1,25 @@
-# # 🛍️ Amazon-Inspired Web UI – By Archana Lohana
+# #  Amazon-Inspired Web UI – By Archana Lohana
+Live Demo: View the Dashboard(https://archana-lohana.github.io/project-1st/)
 
-## 📢 Disclaimer
+##  Disclaimer
 
 This project is created by **Archana Lohana** purely for learning and personal skill development.  
 It is not associated with, sponsored by, or endorsed by Amazon in any way.  
 All logos, images, and brand names used or referenced in this project remain the property of their respective trademark owners.
 
-📩 If you are the rightful owner of any content used here and have concerns, please feel free to reach out, and I will take immediate action.
+ If you are the rightful owner of any content used here and have concerns, please feel free to reach out, and I will take immediate action.
 
-## 🌐 Project Overview
+##  Project Overview
 
 This is a front-end layout inspired by Amazon’s homepage, developed using only **HTML5** and **CSS3**.  
 The project helped me explore layout design, responsive structure, and real-world UI elements without using any CSS frameworks or JavaScript.
 
-## 💡 Why I Built This
+##  Why I Built This
 
 I wanted to test my ability to recreate a professional e-commerce layout using only basic front-end tools.  
 Amazon’s homepage was a great example to follow and recreate from scratch — it gave me a clear goal while helping me understand complex layout building.
 
-## 🔍 Key Features
+##  Key Features
 
 - Responsive layout for mobile and desktop  
 - Custom header with logo, search bar, and navigation links  
@@ -26,21 +27,21 @@ Amazon’s homepage was a great example to follow and recreate from scratch — 
 - Image banners and section dividers  
 - Footer with categorized link sections
 
-## 🧠 Challenges I Faced
+##  Challenges I Faced
 
 - Designing responsive sections without Bootstrap  
 - Aligning the header content across different screen sizes  
 - Maintaining spacing and alignment consistency across sections  
 - Naming and organizing CSS classes properly
 
-## 🔧 Future Improvements
+##  Future Improvements
 
 - Add JavaScript for cart functionality and interactivity  
 - Load real or dummy product data using JSON  
 - Add hover animations and dropdown menus  
 - Implement dark mode using CSS variables
 
-## 🛠️ Built With
+##  Built With
 
 - HTML5  
 - CSS3  
@@ -48,7 +49,7 @@ Amazon’s homepage was a great example to follow and recreate from scratch — 
 - CSS Grid  
 - Font Awesome (for icons)
 
-## 📚 What I Learned
+##  What I Learned
 
 This project helped me improve in:
 - Responsive web design  
@@ -57,7 +58,7 @@ This project helped me improve in:
 - Organizing HTML files professionally  
 - Recreating real-world website UI from scratch
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 1. Clone this repository:
 bash
