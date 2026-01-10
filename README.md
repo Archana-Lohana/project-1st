@@ -1,5 +1,5 @@
 # #  Amazon-Inspired Web UI – By Archana Lohana
-Live Demo: View the Dashboard(https://archana-lohana.github.io/project-1st/)
+Live Demo: [View the Dashboard](https://archana-lohana.github.io/project-1st/)
 
 ##  Disclaimer
 
